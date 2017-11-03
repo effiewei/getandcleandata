@@ -1,0 +1,3 @@
+This is the codebook for the tidy dataset output.txt.
+This dataset contains 181 rows and 81 columns; the first two columns are subject number and activity label, the rest of columns are mean value of 
+different variables. These variable name is according to the feature document in the original datafile.
